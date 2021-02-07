@@ -26,7 +26,7 @@
 
 # NIRUTA DIMAL (nirutadhimal7@gmail.com) 
 
-# PRADIP SAPKOTA (email) 
+# PRADIP SAPKOTA (mr.prasag@gmail.com) 
 
 # FEB 15, 2021 
 
