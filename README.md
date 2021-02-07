@@ -96,7 +96,7 @@ Table 1: Project Tools …………………………………………………
 
 Table 2: Cost Estimation ………………………………………………………………………………………………………… 
 
-# 1.Introduction (uncomplete)
+# 1.Introduction (incomplete)
 
 # 2.FEASIBILITY ANALYSIS
 For the system that is to be developed must satisfy all the feasible strategy.This step deals with the various types of the feasibilities that are needed to be considered during the system development. Mainly there are different types of feasibility that are needed to be considered and they are:
