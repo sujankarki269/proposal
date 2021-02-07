@@ -24,7 +24,7 @@
 
 # SUJAN KARKI (email) 
 
-# NIRUTA DIMAL (email) 
+# NIRUTA DIMAL (nirutadhimal7@gmail.com) 
 
 # PRADIP SAPKOTA (email) 
 
