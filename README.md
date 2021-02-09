@@ -22,7 +22,7 @@
 
 # ANISH JOSHI (anishjoshi1999@gmail.com) 
 
-# SUJAN KARKI (email) 
+# SUJAN KARKI (sujankarki269@gmail.com) 
 
 # NIRUTA DIMAL (nirutadhimal7@gmail.com) 
 
