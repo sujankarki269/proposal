@@ -52,7 +52,8 @@ LIST OF FIGURES AND GRAPHS………………………………………………
 
 1.1Project Background .................................................................................................................  
 
-1.2Objectives and Scope ....................................................................................................................  
+1.2Objectives and Scope 
+....................................................................................................................  
 
 1.3Literature Review ...................................................................................................................  
 
@@ -97,6 +98,13 @@ Table 1: Project Tools …………………………………………………
 Table 2: Cost Estimation ………………………………………………………………………………………………………… 
 
 # 1.Introduction (incomplete)
+# 1.1 Project Background
+
+# 1.2 Objective and Scope
+The main objectives of our project are listed as follows:-
+..* To make buying and selling of second hand items easy and convenient.
+..* To connect interested buyers and sellers.
+..* To provide wide range of products for interested buyers.
 
 # 2.FEASIBILITY ANALYSIS
 For the system that is to be developed must satisfy all the feasible strategy.This step deals with the various types of the feasibilities that are needed to be considered during the system development. Mainly there are different types of feasibility that are needed to be considered and they are:
