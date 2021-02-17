@@ -97,7 +97,7 @@ Table 1: Project Tools …………………………………………………
 
 Table 2: Cost Estimation ………………………………………………………………………………………………………… 
 
-# 1.Introduction (incomplete)
+# 1.Introduction
 Classified advertising is a form of advertising which is particularly common in newspapers, online and other periodicals, e.g., free ads on papers. Classified advertising allows private individuals (not simply companies or corporate entities) to try to sell products or services. Classified advertising is called that because it is generally grouped within the publication under headings classifying the product or service being offered (headings such as electronics, Automobiles, Clothing, For Sale, For Rent, etc.) and is grouped entirely in a distinct section of the periodical, which makes it distinct from display advertising, which often contains graphics or other art work and which is placed near to editorial content. 
 
 Newspapers are continuing to make less and less money from classified advertising because more and more people are using the Internet now and fewer people are reading newspapers. 
