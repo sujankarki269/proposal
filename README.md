@@ -201,9 +201,9 @@ Will the proposed system really benefit the organization? Does the overall respo
 # 8 Conclusion 
 CLASSIFIED ADVERTISING PLATFORM (SastoSaaman) is a web based application that aims to empower every person in the country to independently connect with buyers and sellers online.To enjoy its service you need to sign-up with an email address, name, and password. After successful login, you can easily explore its ads, add your own post, and access it all features without any limit. One of the most exciting facts about SastoSaaman is that it comes with rich privacy and security features to deliver safe experience.It also includes lots of prominent features such as simple interface, allow you to ad post or connect with seller, regular update with tons of ads, advanced search box, and much more. The only drawback of classified ad site is the obtrusive and offensive ads are showing with regular ads that may impact the wrong impression on the reputation of the website.
 # 9 References 
-• [https://en.wikipedia.org/wiki/Advertising]
-• [https://en.wikipedia.org/wiki/Classified_advertising]
-• [https://blog.hubspot.com/marketing/history-of-online-advertising]	
-• [https://www.geeksforgeeks.org/mern-stack/]
-• [https://www.globenewswire.com/fr/news-release/2020/12/18/2147726/0/en/Global-Online-Classified-Market-2020-to-2024-Size-Forecasts-with-Impact-Analysis-of-COVID-19.html]	
-• [https://en.wikipedia.org/wiki/Decline_of_newspapers]
+* [https://en.wikipedia.org/wiki/Advertising]
+* [https://en.wikipedia.org/wiki/Classified_advertising]
+* [https://blog.hubspot.com/marketing/history-of-online-advertising]	
+* [https://www.geeksforgeeks.org/mern-stack/]
+* [https://www.globenewswire.com/fr/news-release/2020/12/18/2147726/0/en/Global-Online-Classified-Market-2020-to-2024-Size-Forecasts-with-Impact-Analysis-of-COVID-19.html]	
+* [https://en.wikipedia.org/wiki/Decline_of_newspapers]
