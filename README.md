@@ -159,6 +159,7 @@ Have the users been involved in the planning and development of the project? Ear
 Will the proposed system really benefit the organization? Does the overall response increase? Will accessibility of information be lost? Will the system effect the customers in considerable way?
 (source:https://www.freetutes.com/systemanalysis/sa3-technical-economic-operational-legal.html)
 # 6 Architecture of CLASSIFIED ADVERTISING PLATFORM
+![](architecture.gif)
 # 7 Project Schedule 
 # 8 Conclusion 
 # 9 References 
