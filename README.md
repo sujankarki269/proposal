@@ -115,19 +115,54 @@ This encloses the needs and scope of the development of the project. The objecti
 
 # 3 Literature Review 
 # 3.1 Background 
+      Classified Advertising Platform (Sasto Saman) app need to be extremely fast with high performance, so we use React for this. Such app will grow over time so instead of building one big monolithic app will separate it into two different parts: client side and server side. In server side, we will use NodeJS and MongoDB to build our API. In client side, we will use React and Redux for building the frontend. The benefit of this approach is, you can either work in client side or server side independently. Later on, if you decide to use some other framework to build your front end, you can still use the same backend. And even if you decide to build mobile app later, you can still use the same backend API for that.
+ 
 # 3.2 Existing Situation 
+•	Normally we have seen web app filled with app everywhere .
+•	The  existing web app user interface make it difficult to use for some of the users
+•	The user interface do not have a clean interface and require better maintenance to get the desired outcomes
+
 # 3.2.1 Proposed system
-The proposed system aims online marketplace of classified advertising platform for buying and selling services and goods such as electronics, fashion items , furniture, household  goods, cars, bikes, stationary products etc. This system uses web service. The data (product details and users data ) are stored in database that will be the centre of all information. Web sever fetches data from database and show to the user as required or mentioned. The architecture of our proposed system is three tire architecture(data teir, application teir, presentation teir.) 
+•	Focusing on the problems in the existing system, the new system provides user friendly interface with high flexibility in using this application.
+•	As a platform owner, the interface contains less ads.
+•	As per the security concerned, all the user’s information is maintained secured.
+•	This application is suitable for all sort of platforms available in the market.
 
-A simple block diagram has been presented here which gives some insight into the structure of the system. This block diagram is for illustration purpose. All the components of the system will be elaborated in final block diagram. 
+#3.4 MongoDB
+            MongoDB is a NoSQL database where each record is a document comprising of key-value pairs that are similar to JSON (Java Script Object Notation) objects. It is flexible and allow its users to create schema, databases, tables, etc. It is extremely easy to use and ultimately scalable solution for modern apps.  It is very easy to perform database queries with MongoDB compared to other databases like firebase, etc.
 
-# 3.3 NodeJS(Javascript)
-# 3.4 MONGODB 
-# 3.5 Express.js
-# 3.6 React.js
-# 3.7 System Environment 
-# 3.7.1 Hardware requirements 
-# 3.7.2 Software requirements
+#3.5 Express
+           Express is Node.js framework. Rather than writing code using Node.js and creating loads of Node modules, Express makes it simpler and easier to write the back-end code. Express helps in designing great web applications and APIs. It supports many middleware which makes the code shorter and easier to write. Express promotes code reusability with its built-in router. It has biggest community for Node.js.
+
+#3.6 React JS
+       React is a JavaScript library that is used for building user interfaces. React is used for the development of single-page applications and mobile applications because of its ability to handle rapidly changing data. It allows users to code in JavaScript and create UI components. Features like Virtual DOM, JSX and Components make it much faster than rest of the framework out there.
+
+#3.7 Node.js
+           Node.js provides a JavaScript Environment which allows the user to run their code on the server (outside the browser). It is open source JavaScript Runtime Environment. Node pack manager i.e. npm allows the user to choose from thousands of free packages (node modules) to download. It follows single threaded model. It is built on Google Chrome’s JavaScript Engine, so it has fast code execution and is highly scalable.
+
+#3.8 ER diagram(To be done later)
+
+#3.9 System Environment
+      For design and development given system environment is required.
+
+#3.9.1 Hardware Requirements
+           Processor:                             1.8 GHz Dual-Core Intel Core i5 and above
+           Hard Disk Drive:                       50 GB or above
+           Monitor:                               LCD Monitor
+           Keyboard:                              USB
+           Mouse:                                 USB optical
+           RAM:                                   4 GB or above
+
+#3.9.2 Software Requirements
+           Front End:                             React JS
+           Back End:                              Node.js and MongoDB
+           Operating System:                      Windows 10/Ubuntu/MacOS 
+           Language:                              JavaScript (MERN Stack)
+           Documentation:                         MS-WORD/EXCEL/PowerPoint
+           Interface of Programming:              Visual Studio Code
+
+
+
 
 # 4 Design Diagrams 
 # 4.1 Use Case Diagram 
