@@ -89,6 +89,7 @@ Table 1: Project Tools …………………………………………………
 Table 2: Cost Estimation ………………………………………………………………………………………………………… 
 
 # 1.Introduction(new)
+
 Classified advertising is a form of advertising which is particularly common in newspapers, online and other periodicals, e.g., free ads on papers. Classified advertising allows private individuals (not simply companies or corporate entities) to try to sell products or services. Classified advertising is called that because it is generally grouped within the publication under headings classifying the product or service being offered (headings such as electronics, Automobiles, Clothing, For Sale, For Rent, etc.) and is grouped entirely in a distinct section of the periodical, which makes it distinct from display advertising, which often contains graphics or other art work and which is placed near to editorial content. 
 
 Newspapers are continuing to make less and less money from classified advertising because more and more people are using the Internet now and fewer people are reading newspapers. 
@@ -119,6 +120,7 @@ This encloses the needs and scope of the development of the project. The objecti
 The proposed system aims online marketplace of classified advertising platform for buying and selling services and goods such as electronics, fashion items , furniture, household  goods, cars, bikes, stationary products etc. This system uses web service. The data (product details and users data ) are stored in database that will be the centre of all information. Web sever fetches data from database and show to the user as required or mentioned. The architecture of our proposed system is three tire architecture(data teir, application teir, presentation teir.) 
 
 A simple block diagram has been presented here which gives some insight into the structure of the system. This block diagram is for illustration purpose. All the components of the system will be elaborated in final block diagram. 
+
 # 3.3 NodeJS(Javascript)
 # 3.4 MONGODB 
 # 3.5 Express.js
