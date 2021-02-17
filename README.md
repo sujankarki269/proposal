@@ -197,6 +197,7 @@ Will the proposed system really benefit the organization? Does the overall respo
 ![](architecture.gif)
 # 7 Project Schedule 
 # 8 Conclusion 
+CLASSIFIED ADVERTISING PLATFORM (SastoSaaman) is a web based application that aims to empower every person in the country to independently connect with buyers and sellers online.To enjoy its service you need to sign-up with an email address, name, and password. After successful login, you can easily explore its ads, add your own post, and access it all features without any limit. One of the most exciting facts about SastoSaaman is that it comes with rich privacy and security features to deliver safe experience.It also includes lots of prominent features such as simple interface, allow you to ad post or connect with seller, regular update with tons of ads, advanced search box, and much more. The only drawback of classified ad site is the obtrusive and offensive ads are showing with regular ads that may impact the wrong impression on the reputation of the website.
 # 9 References 
 • [https://en.wikipedia.org/wiki/Advertising]
 • [https://en.wikipedia.org/wiki/Classified_advertising]
