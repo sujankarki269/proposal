@@ -146,6 +146,7 @@ The necessary technology to develop our project "CLASSIFIED ADVERTISING PLATFORM
 # 5.3 Operational Feasibility
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae lacinia tellus, a euismod ex. Fusce leo odio, posuere dignissim tincidunt sed, interdum vitae quam. Sed et dui venenatis, luctus justo sed, venenatis lectus. Ut interdum consectetur erat, eu volutpat est consequat et. Vestibulum non elit magna. Duis tortor ex, mollis eget volutpat sit amet, tempus bibendum arcu. Mauris semper mi non vulputate facilisis. Maecenas at lectus in enim egestas euismod. Etiam vitae elit porta, egestas eros non, commodo est. Nunc mollis mollis justo vitae iaculis. Curabitur dolor lectus, ultrices at porttitor in, fringilla a mi. Nullam pharetra rhoncus vulputate. Maecenas et sapien non nisi suscipit tempus eleifend vitae dui. Quisque ultricies quis nisl quis pellentesque.
 # 6 Architecture of CLASSIFIED ADVERTISING PLATFORM
+![](architecture.gif)
 # 7 Project Schedule 
 # 8 Conclusion 
 # 9 References 
