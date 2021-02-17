@@ -88,7 +88,7 @@ Table 1: Project Tools …………………………………………………
 
 Table 2: Cost Estimation ………………………………………………………………………………………………………… 
 
-# 1.Introduction(new)
+# 1.Introduction
 
 Classified advertising is a form of advertising which is particularly common in newspapers, online and other periodicals, e.g., free ads on papers. Classified advertising allows private individuals (not simply companies or corporate entities) to try to sell products or services. Classified advertising is called that because it is generally grouped within the publication under headings classifying the product or service being offered (headings such as electronics, Automobiles, Clothing, For Sale, For Rent, etc.) and is grouped entirely in a distinct section of the periodical, which makes it distinct from display advertising, which often contains graphics or other art work and which is placed near to editorial content. 
 
@@ -114,8 +114,10 @@ This encloses the needs and scope of the development of the project. The objecti
 3.  Buyers and Sellers are connected and  transaction are done through this site, this reduces the chances of fraud and scam.
 
 # 3 Literature Review 
+
 ## 3.1 Background 
 Classified Advertising Platform (Sasto Saman) app need to be extremely fast with high performance, so we use React for this. Such app will grow over time so instead of building one big monolithic app will separate it into two different parts: client side and server side. In server side, we will use NodeJS and MongoDB to build our API. In client side, we will use React and Redux for building the frontend. The benefit of this approach is, you can either work in client side or server side independently. Later on, if you decide to use some other framework to build your front end, you can still use the same backend. And even if you decide to build mobile app later, you can still use the same backend API for that.
+Today’s world is computer dominated world. Each and every field is dependent on computer to perform the task ranging from simple to complex one. Computer has been applied in almost every field among which Advertising field is one of them. So we intended to develop a Classified Advertising platform that will help in smoothening the online advertising sector.
  
 ## 3.2 Existing Situation 
 * Normally we have seen web app filled with app everywhere.
@@ -197,5 +199,6 @@ Will the proposed system really benefit the organization? Does the overall respo
 ![](architecture.gif)
 # 7 Project Schedule 
 # 8 Conclusion 
+CLASSIFIED ADVERTISING PLATFORM (SastoSaaman) is a web based application that aims to empower every person in the country to independently connect with buyers and sellers online.To enjoy its service you need to sign-up with an email address, name, and password. After successful login, you can easily explore its ads, add your own post, and access it all features without any limit. One of the most exciting facts about SastoSaaman is that it comes with rich privacy and security features to deliver safe experience.It also includes lots of prominent features such as simple interface, allow you to ad post or connect with seller, regular update with tons of ads, advanced search box, and much more. The only drawback of classified ad site is the obtrusive and offensive ads are showing with regular ads that may impact the wrong impression on the reputation of the website.
 # 9 References 
 
