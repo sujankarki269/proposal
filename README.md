@@ -98,6 +98,15 @@ Table 2: Cost Estimation ………………………………………………�
 
 # 1.Introduction (incomplete)
 
+
+# Proposed system 
+Proposed system 
+
+ 
+
+The proposed system aims online marketplace of classified advertising platform for buying and selling services and goods such as electronics, fashion items , furniture, household  goods, cars, bikes, stationary products etc. This system uses web service. The data (product details and users data ) are stored in database that will be the centre of all information. Web sever fetches data from database and show to the user as required or mentioned. The architecture of our proposed system is three tire architecture(data teir, application teir, presentation teir.) 
+
+A simple block diagram has been presented here which gives some insight into the structure of the system. This block diagram is for illustration purpose. All the components of the system will be elaborated in final block diagram. 
 # 2.FEASIBILITY ANALYSIS
 For the system that is to be developed must satisfy all the feasible strategy.This step deals with the various types of the feasibilities that are needed to be considered during the system development. Mainly there are different types of feasibility that are needed to be considered and they are:
 # 2.1 Technical feasibility
