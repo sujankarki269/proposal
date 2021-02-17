@@ -148,6 +148,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae lacinia tel
 # 6 Architecture of CLASSIFIED ADVERTISING PLATFORM
 ![](architecture.gif)
 # 7 Project Schedule 
+![](duration.png)
+![](ganttchart.png)
 # 8 Conclusion 
 # 9 References 
 
