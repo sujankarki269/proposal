@@ -110,10 +110,19 @@ The online classified market is expected to increase due to growth in the retail
 # 1.1 Project Background
 
 # 1.2 Objective and Scope
-The main objectives of our project are listed as follows:-
-..* To make buying and selling of second hand items easy and convenient.
-..* To connect interested buyers and sellers.
-..* To provide wide range of products for interested buyers.
+This encloses the needs and scope of the development of the project. The objectives can be explained as following:
+#2.1	Objectives
+1    To make buying and selling of secondhand items easy and convenient.
+2    To connect interested buyers and sellers.
+3.   To provide information about various products in a different category.
+4.   Customer can login and get various information about products and can purchase a suitable product with price and quality comparison.
+5.   Customer can login and post information about the products they want to sell.
+#2.2 Scope
+1.  Customers can buy and sell products online.
+2.  This can be used as online marketplace and classified advertising platform.
+3.  Buyers and Sellers are connected and  transaction are done through this site, this reduces the chances of fraud and scam.
+   
+
 
 # 2.FEASIBILITY ANALYSIS
 For the system that is to be developed must satisfy all the feasible strategy.This step deals with the various types of the feasibilities that are needed to be considered during the system development. Mainly there are different types of feasibility that are needed to be considered and they are:
