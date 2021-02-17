@@ -198,9 +198,9 @@ Will the proposed system really benefit the organization? Does the overall respo
 # 7 Project Schedule 
 # 8 Conclusion 
 # 9 References 
-•[https://en.wikipedia.org/wiki/Advertising]
-•[https://en.wikipedia.org/wiki/Classified_advertising]
-•[https://blog.hubspot.com/marketing/history-of-online-advertising]
-•[https://www.geeksforgeeks.org/mern-stack/]
-•[https://www.globenewswire.com/fr/news-release/2020/12/18/2147726/0/en/Global-Online-Classified-Market-2020-to-2024-Size-Forecasts-with-Impact-Analysis-of-COVID-19.html]
-•[https://en.wikipedia.org/wiki/Decline_of_newspapers]
+• [https://en.wikipedia.org/wiki/Advertising]
+• [https://en.wikipedia.org/wiki/Classified_advertising]
+• [https://blog.hubspot.com/marketing/history-of-online-advertising]
+• [https://www.geeksforgeeks.org/mern-stack/]
+• [https://www.globenewswire.com/fr/news-release/2020/12/18/2147726/0/en/Global-Online-Classified-Market-2020-to-2024-Size-Forecasts-with-Impact-Analysis-of-COVID-19.html]
+• [https://en.wikipedia.org/wiki/Decline_of_newspapers]
