@@ -102,51 +102,52 @@ The online classified market is expected to increase due to growth in the retail
 
 # 2 Objective and scope
 This encloses the needs and scope of the development of the project. The objectives can be explained as following:
-# 2.1	Objectives
+## 2.1	Objectives
 1    To make buying and selling of secondhand items easy and convenient.
 2    To connect interested buyers and sellers.
 3.   To provide information about various products in a different category.
 4.   Customer can login and get various information about products and can purchase a suitable product with price and quality comparison.
 5.   Customer can login and post information about the products they want to sell.
-# 2.2 Scope
+## 2.2 Scope
 1.  Customers can buy and sell products online.
 2.  This can be used as online marketplace and classified advertising platform.
 3.  Buyers and Sellers are connected and  transaction are done through this site, this reduces the chances of fraud and scam.
 
 # 3 Literature Review 
+
+## 3.1 Background 
+Classified Advertising Platform (Sasto Saman) app need to be extremely fast with high performance, so we use React for this. Such app will grow over time so instead of building one big monolithic app will separate it into two different parts: client side and server side. In server side, we will use NodeJS and MongoDB to build our API. In client side, we will use React and Redux for building the frontend. The benefit of this approach is, you can either work in client side or server side independently. Later on, if you decide to use some other framework to build your front end, you can still use the same backend. And even if you decide to build mobile app later, you can still use the same backend API for that.
 Today’s world is computer dominated world. Each and every field is dependent on computer to perform the task ranging from simple to complex one. Computer has been applied in almost every field among which Advertising field is one of them. So we intended to develop a Classified Advertising platform that will help in smoothening the online advertising sector.
-# 3.1 Background 
-      Classified Advertising Platform (Sasto Saman) app need to be extremely fast with high performance, so we use React for this. Such app will grow over time so instead of building one big monolithic app will separate it into two different parts: client side and server side. In server side, we will use NodeJS and MongoDB to build our API. In client side, we will use React and Redux for building the frontend. The benefit of this approach is, you can either work in client side or server side independently. Later on, if you decide to use some other framework to build your front end, you can still use the same backend. And even if you decide to build mobile app later, you can still use the same backend API for that.
  
-# 3.2 Existing Situation 
-•	Normally we have seen web app filled with app everywhere .
-•	The  existing web app user interface make it difficult to use for some of the users
-•	The user interface do not have a clean interface and require better maintenance to get the desired outcomes
+## 3.2 Existing Situation 
+* Normally we have seen web app filled with app everywhere.
+* The  existing web app user interface make it difficult to use for some of the users.
+* The user interface do not have a clean interface and require better maintenance to get the desired outcomes.
 
-# 3.2.1 Proposed system
-•	Focusing on the problems in the existing system, the new system provides user friendly interface with high flexibility in using this application.
-•	As a platform owner, the interface contains less ads.
-•	As per the security concerned, all the user’s information is maintained secured.
-•	This application is suitable for all sort of platforms available in the market.
+## 3.2.1 Proposed system
+* Focusing on the problems in the existing system, the new system provides user friendly interface with high flexibility in using this application.
+* As a platform owner, the interface contains less ads.
+* As per the security concerned, all the user’s information is maintained secured.
+* This application is suitable for all sort of platforms available in the market.
 
-# 3.4 MongoDB
-            MongoDB is a NoSQL database where each record is a document comprising of key-value pairs that are similar to JSON (Java Script Object Notation) objects. It is flexible and allow its users to create schema, databases, tables, etc. It is extremely easy to use and ultimately scalable solution for modern apps.  It is very easy to perform database queries with MongoDB compared to other databases like firebase, etc.
+## 3.4 MongoDB
+MongoDB is a NoSQL database where each record is a document comprising of key-value pairs that are similar to JSON (Java Script Object Notation) objects. It is flexible and allow its users to create schema, databases, tables, etc. It is extremely easy to use and ultimately scalable solution for modern apps.  It is very easy to perform database queries with MongoDB compared to other databases like firebase, etc.
 
-# 3.5 Express
-           Express is Node.js framework. Rather than writing code using Node.js and creating loads of Node modules, Express makes it simpler and easier to write the back-end code. Express helps in designing great web applications and APIs. It supports many middleware which makes the code shorter and easier to write. Express promotes code reusability with its built-in router. It has biggest community for Node.js.
+## 3.5 Express
+Express is Node.js framework. Rather than writing code using Node.js and creating loads of Node modules, Express makes it simpler and easier to write the back-end code. Express helps in designing great web applications and APIs. It supports many middleware which makes the code shorter and easier to write. Express promotes code reusability with its built-in router. It has biggest community for Node.js.
 
-# 3.6 React JS
-       React is a JavaScript library that is used for building user interfaces. React is used for the development of single-page applications and mobile applications because of its ability to handle rapidly changing data. It allows users to code in JavaScript and create UI components. Features like Virtual DOM, JSX and Components make it much faster than rest of the framework out there.
+## 3.6 React JS
+React is a JavaScript library that is used for building user interfaces. React is used for the development of single-page applications and mobile applications because of its ability to handle rapidly changing data. It allows users to code in JavaScript and create UI components. Features like Virtual DOM, JSX and Components make it much faster than rest of the framework out there.
 
-# 3.7 Node.js
-           Node.js provides a JavaScript Environment which allows the user to run their code on the server (outside the browser). It is open source JavaScript Runtime Environment. Node pack manager i.e. npm allows the user to choose from thousands of free packages (node modules) to download. It follows single threaded model. It is built on Google Chrome’s JavaScript Engine, so it has fast code execution and is highly scalable.
+## 3.7 Node.js
+Node.js provides a JavaScript Environment which allows the user to run their code on the server (outside the browser). It is open source JavaScript Runtime Environment. Node pack manager i.e. npm allows the user to choose from thousands of free packages (node modules) to download. It follows single threaded model. It is built on Google Chrome’s JavaScript Engine, so it has fast code execution and is highly scalable.
 
-# 3.8 ER diagram(To be done later)
+## 3.8 ER diagram(To be done later)
 
-# 3.9 System Environment
-      For design and development given system environment is required.
+## 3.9 System Environment
+ For design and development given system environment is required.
 
-# 3.9.1 Hardware Requirements
+### 3.9.1 Hardware Requirements
            Processor:                             1.8 GHz Dual-Core Intel Core i5 and above
            Hard Disk Drive:                       50 GB or above
            Monitor:                               LCD Monitor
@@ -154,7 +155,7 @@ Today’s world is computer dominated world. Each and every field is dependent o
            Mouse:                                 USB optical
            RAM:                                   4 GB or above
 
-# 3.9.2 Software Requirements
+### 3.9.2 Software Requirements
            Front End:                             React JS
            Back End:                              Node.js and MongoDB
            Operating System:                      Windows 10/Ubuntu/MacOS 
@@ -166,10 +167,10 @@ Today’s world is computer dominated world. Each and every field is dependent o
 
 
 # 4 Design Diagrams 
-# 4.1 Use Case Diagram 
-# 4.1.1 Use Case Diagram for XYZ 
-# 4.1.2 Use Case Diagram for ABC 
-# 4.1.3 Use Case Diagram for EFG
+## 4.1 Use Case Diagram 
+### 4.1.1 Use Case Diagram for XYZ 
+### 4.1.2 Use Case Diagram for ABC 
+### 4.1.3 Use Case Diagram for EFG
    
 # 5.FEASIBILITY ANALYSIS
 For the system that is to be developed must satisfy all the feasible strategy.This step deals with the various types of the feasibilities that are needed to be considered during the system development. Mainly there are different types of feasibility that are needed to be considered and they are:
@@ -200,9 +201,4 @@ Will the proposed system really benefit the organization? Does the overall respo
 # 8 Conclusion 
 CLASSIFIED ADVERTISING PLATFORM (SastoSaaman) is a web based application that aims to empower every person in the country to independently connect with buyers and sellers online.To enjoy its service you need to sign-up with an email address, name, and password. After successful login, you can easily explore its ads, add your own post, and access it all features without any limit. One of the most exciting facts about SastoSaaman is that it comes with rich privacy and security features to deliver safe experience.It also includes lots of prominent features such as simple interface, allow you to ad post or connect with seller, regular update with tons of ads, advanced search box, and much more. The only drawback of classified ad site is the obtrusive and offensive ads are showing with regular ads that may impact the wrong impression on the reputation of the website.
 # 9 References 
-• [https://en.wikipedia.org/wiki/Advertising]
-• [https://en.wikipedia.org/wiki/Classified_advertising]
-• [https://blog.hubspot.com/marketing/history-of-online-advertising]
-• [https://www.geeksforgeeks.org/mern-stack/]
-• [https://www.globenewswire.com/fr/news-release/2020/12/18/2147726/0/en/Global-Online-Classified-Market-2020-to-2024-Size-Forecasts-with-Impact-Analysis-of-COVID-19.html]
-• [https://en.wikipedia.org/wiki/Decline_of_newspapers]
+
