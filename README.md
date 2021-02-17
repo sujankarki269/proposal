@@ -140,11 +140,24 @@ For the system that is to be developed must satisfy all the feasible strategy.Th
 # 5.1 Technical feasibility
 The necessary technology to develop our project "CLASSIFIED ADVERTISING PLATFORM ". Software like Node.js and MongoDB can be used to develop the back end which contains the actual database in which various information are stored which can be manipulated or retrieved as per the requirement. React.js front-end framework can be used to develop a user friendly interface to be used by the system user. Therefore the project team feels it is capable of making use of the available technology to build "CLASSIFIED ADVERTISING PLATFORM" website. Hence the system is technically feasible.
 # 5.2 Economic Feasibility 
-⋅⋅* XYZ
-⋅⋅* ABC
+For any system if the expected benefits equal or exceed the expected costs, the system can be judged to be economically feasible. In economic feasibility, cost benefit analysis is done in which expected costs and benefits are evaluated. Economic analysis is used for evaluating the effectiveness of the proposed system.
 
+Developing an IT application is an investment. Since after developing that application it provides the organization with profits. Profits can be monetary or in the form of an improved working environment. However, it carries risks, because in some cases an estimate can be wrong. And the project might not actually turn out to be beneficial.
+Cost benefit analysis helps to give management a picture of the costs, benefits and risks. It usually involves comparing alternate investments.
+Cost benefit determines the benefits and savings that are expected from the system and compares them with the expected costs.
+The cost of an information system involves the development cost and maintenance cost. The development costs are one time investment whereas maintenance costs are recurring. The development cost is basically the costs incurred during the various stages of the system development.
+(source: https://www.freetutes.com/systemanalysis/sa3-cost-benefit-analysis.html)
 # 5.3 Operational Feasibility
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae lacinia tellus, a euismod ex. Fusce leo odio, posuere dignissim tincidunt sed, interdum vitae quam. Sed et dui venenatis, luctus justo sed, venenatis lectus. Ut interdum consectetur erat, eu volutpat est consequat et. Vestibulum non elit magna. Duis tortor ex, mollis eget volutpat sit amet, tempus bibendum arcu. Mauris semper mi non vulputate facilisis. Maecenas at lectus in enim egestas euismod. Etiam vitae elit porta, egestas eros non, commodo est. Nunc mollis mollis justo vitae iaculis. Curabitur dolor lectus, ultrices at porttitor in, fringilla a mi. Nullam pharetra rhoncus vulputate. Maecenas et sapien non nisi suscipit tempus eleifend vitae dui. Quisque ultricies quis nisl quis pellentesque.
+Operational feasibility is mainly concerned with issues like whether the system will be used if it is developed and implemented. Whether there will be resistance from users that will effect the possible application benefits? The essential questions that help in testing the operational feasibility of a system are following.
+
+Does management support the project?
+
+Are the users not happy with current business practices? Will it reduce the time (operation) considerably? If yes, then they will welcome the change and the new system.
+
+Have the users been involved in the planning and development of the project? Early involvement reduces the probability of resistance towards the new system.
+
+Will the proposed system really benefit the organization? Does the overall response increase? Will accessibility of information be lost? Will the system effect the customers in considerable way?
+(source:https://www.freetutes.com/systemanalysis/sa3-technical-economic-operational-legal.html)
 # 6 Architecture of CLASSIFIED ADVERTISING PLATFORM
 # 7 Project Schedule 
 # 8 Conclusion 
