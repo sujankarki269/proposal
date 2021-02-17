@@ -88,7 +88,7 @@ Table 1: Project Tools …………………………………………………
 
 Table 2: Cost Estimation ………………………………………………………………………………………………………… 
 
-# 1.Introduction(new)
+# 1.Introduction
 
 Classified advertising is a form of advertising which is particularly common in newspapers, online and other periodicals, e.g., free ads on papers. Classified advertising allows private individuals (not simply companies or corporate entities) to try to sell products or services. Classified advertising is called that because it is generally grouped within the publication under headings classifying the product or service being offered (headings such as electronics, Automobiles, Clothing, For Sale, For Rent, etc.) and is grouped entirely in a distinct section of the periodical, which makes it distinct from display advertising, which often contains graphics or other art work and which is placed near to editorial content. 
 
@@ -114,6 +114,7 @@ This encloses the needs and scope of the development of the project. The objecti
 3.  Buyers and Sellers are connected and  transaction are done through this site, this reduces the chances of fraud and scam.
 
 # 3 Literature Review 
+Today’s world is computer dominated world. Each and every field is dependent on computer to perform the task ranging from simple to complex one. Computer has been applied in almost every field among which Advertising field is one of them. So we intended to develop a Classified Advertising platform that will help in smoothening the online advertising sector.
 # 3.1 Background 
       Classified Advertising Platform (Sasto Saman) app need to be extremely fast with high performance, so we use React for this. Such app will grow over time so instead of building one big monolithic app will separate it into two different parts: client side and server side. In server side, we will use NodeJS and MongoDB to build our API. In client side, we will use React and Redux for building the frontend. The benefit of this approach is, you can either work in client side or server side independently. Later on, if you decide to use some other framework to build your front end, you can still use the same backend. And even if you decide to build mobile app later, you can still use the same backend API for that.
  
